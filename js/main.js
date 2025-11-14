@@ -1,5 +1,5 @@
 let slideIndex = 1 ;
-let remainingTime = 70000 ;
+let remainingTime = 86400 ;
 
 function setTime(){
     if(remainingTime == 0) return;
